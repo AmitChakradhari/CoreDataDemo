@@ -15,6 +15,7 @@
 		7DC0251A216E0C1C00BAC257 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC02519216E0C1B00BAC257 /* DetailViewController.swift */; };
 		7DC0251C216E0C3500BAC257 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DC0251B216E0C3500BAC257 /* ViewController.swift */; };
 		7DC0251E216E0C5100BAC257 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DC0251D216E0C5100BAC257 /* Main.storyboard */; };
+		E83DEF2325BAF81700C42215 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E83DEF2225BAF81700C42215 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7DC02519216E0C1B00BAC257 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		7DC0251B216E0C3500BAC257 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7DC0251D216E0C5100BAC257 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		E83DEF2225BAF81700C42215 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				7DC0251B216E0C3500BAC257 /* ViewController.swift */,
 				7DC02519216E0C1B00BAC257 /* DetailViewController.swift */,
 				7D94990F216E43FA001073F8 /* InfoView.swift */,
+				E83DEF2225BAF81700C42215 /* .gitignore */,
 				7DC0250E216E08C400BAC257 /* Assets.xcassets */,
 				7DC0251D216E0C5100BAC257 /* Main.storyboard */,
 				7DC02510216E08C400BAC257 /* LaunchScreen.storyboard */,
@@ -131,6 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E83DEF2325BAF81700C42215 /* .gitignore in Resources */,
 				7DC0251E216E0C5100BAC257 /* Main.storyboard in Resources */,
 				7DC02512216E08C400BAC257 /* LaunchScreen.storyboard in Resources */,
 				7DC0250F216E08C400BAC257 /* Assets.xcassets in Resources */,
